@@ -31,7 +31,7 @@ sections:
 
           *   Important pollinators
         actions:
-          - label: See Writing Samples
+          - label: Find out more on the Butterfly Conservation website
             url: /faq
             style: primary
             has_icon: true
