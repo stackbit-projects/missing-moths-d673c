@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Moths are disappearing
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      In the last 50 years, the number of moths recorded in the UK and Ireland
+      has decreased
     actions:
       - label: Contact Me
         url: /contact
