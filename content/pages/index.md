@@ -43,10 +43,13 @@ sections:
         media_width: sixty
       - title: What can you do?
         subtitle: Garden for wildlife
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: |+
+          *   Plant pollinator friendly plants
+
+          *   Don't use pesticides
+
+          *   Use peat-free compost to protect vital habitat
+
         actions:
           - label: Learn More
             url: /about
