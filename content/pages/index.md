@@ -6,10 +6,7 @@ sections:
     subtitle: >-
       In the last 50 years, the number of moths recorded in the UK and Ireland
       has steadily declined.
-    actions:
-      - label: Contact M
-        url: /contact
-        style: primary
+    actions: []
     image: /images/Garden_Tiger.png
     image_alt: A smiling woman
     media_position: right
