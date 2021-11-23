@@ -19,6 +19,10 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
+    content: >+
+      Loss of habitat, use of pesticides and climate change are all responsible
+      for changes in moth populations.
+
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
