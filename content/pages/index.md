@@ -63,10 +63,10 @@ sections:
         media_width: sixty
       - title: How to record moths
         subtitle: Contribute to science from your garden
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        content: >
+          Record moths when you see them, or run a moth trap and contribute to
+          ongoing monitoring schemes. Don't forget to submit your records to
+          your local moth recorder.
         actions:
           - label: See Past Work
             url: /faq
