@@ -26,7 +26,6 @@ sections:
   - type: features_section
     features:
       - title: Why do moths matter?
-        subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
