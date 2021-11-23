@@ -25,7 +25,7 @@ sections:
 
   - type: features_section
     features:
-      - title: Content Creation
+      - title: Why do moths matter?
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
