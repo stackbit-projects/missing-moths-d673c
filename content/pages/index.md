@@ -10,7 +10,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: primary
-    image: /images/259761955_602689564374837_7006080717311405461_n.jpg
+    image: /images/Garden_Tiger.png
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
