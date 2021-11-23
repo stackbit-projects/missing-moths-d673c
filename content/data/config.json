@@ -17,7 +17,7 @@
         "logo_alt": "Personal logo",
         "has_primary_nav": true,
         "primary_nav_links": [],
-        "has_secondary_nav": true,
+        "has_secondary_nav": false,
         "secondary_nav_links": [
             {
                 "label": "Style Guide",
