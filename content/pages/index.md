@@ -24,7 +24,6 @@ sections:
       for changes in moth populations.
 
   - type: features_section
-    subtitle: What I do
     features:
       - title: Content Creation
         subtitle: 'Website, blog, social media and more.'
