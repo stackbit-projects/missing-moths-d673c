@@ -100,6 +100,7 @@ sections:
         media_width: fifty
         align: left
         image: /images/8tnr3tBY_400x400.jpg
+        video_embed_html: a
     feature_padding_vert: medium
     align: center
     padding_top: medium
