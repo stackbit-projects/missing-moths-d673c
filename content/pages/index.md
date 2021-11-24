@@ -91,17 +91,9 @@ sections:
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          I am Anna. I'm an Open University student in the final year of a BSc
+          in Natural Sciences (Environmental Science). ILorem ipsu
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
