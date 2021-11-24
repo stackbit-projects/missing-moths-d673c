@@ -20,18 +20,18 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
     content: >
-      Loss of habitat, use of pesticides and climate change are all responsible
-      for changes in moth populations.
+      Some like the Garden Tiger moth pictured here have seen their numbers drop
+      by 90%. Loss of habitat, use of pesticides and climate change are all
+      responsible for these dramatic changes in moth populations.
 
 
       Thank you for taking an interest in the Missing Moths project. This site
-      aims to signpost where you can find out more about what is happening and
-      what you can do to help.
+      will guide you to resources to allow you to help reverse these changes.
 
 
-      If you've seen a Missing Moths poster or species in the wild, please take
-      a picture and spread the word on Instagram and Twitter by tagging it with
-      **#MissingMoths**
+      If you've seen a Missing Moths poster in the wild, please take a picture
+      and spread the word on Instagram and Twitter by tagging it with
+      **#MissingMoths**. We'd also love to see your moths there too!** **
   - type: features_section
     features:
       - title: Why do moths matter?
