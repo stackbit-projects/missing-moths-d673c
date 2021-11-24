@@ -83,7 +83,7 @@ sections:
     background_color: none
     title: Learn more
   - type: grid_section
-    title: Testimonials
+    title: Who am I?
     subtitle: What My Clients Say
     grid_items:
       - content: >-
