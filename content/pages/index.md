@@ -89,8 +89,7 @@ sections:
   - section_id: who-am-i
     title: Who am I?
     features:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         content: >
           I am Anna. I'm an Open University student in the final year of a BSc
           in Natural Sciences (Environmental Science). ILorem ipsu
