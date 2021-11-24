@@ -40,13 +40,7 @@ sections:
           *   Vital link in the food chain for birds, bats and other insects
 
           *   Important pollinators
-        actions:
-          - label: Find out more
-            url: /faq
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: /images/Untitled design (5)-14761502.png
         image_alt: Feature 1 illustration
         media_position: right
