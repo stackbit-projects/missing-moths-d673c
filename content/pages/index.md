@@ -24,9 +24,9 @@ sections:
       for changes in moth populations.
 
 
-      Thank you for taking an interest in the Missing Moths project, wherever
-      you found us. This site aims to signpost where you can find out more about
-      what is happening and what you can do to help.
+      Thank you for taking an interest in the Missing Moths project. This site
+      aims to signpost where you can find out more about what is happening and
+      what you can do to help.
   - type: features_section
     features:
       - title: Why do moths matter?
