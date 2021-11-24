@@ -89,19 +89,17 @@ sections:
   - section_id: who-am-i
     title: Who am I?
     features:
-      - content: >+
+      - content: >
           I'm Anna, an Open University student in the final year of a BSc in
           Natural Sciences (Environmental Science). I love moths, butterflies
           and other insects. I worked for ten years in ecommerce marketing but
           now I'm using my powers for good.
 
 
-          I want to introduce others to the joys found in natural world around
-          us so they want to protect what we have and make new spaces for
-          nature. I believe that art and creativity can be used to communicate
-          scientific ideas and engage people who might think science isn't for
-          them.
-
+          I want to introduce others to the joys found in natural world so they
+          want to protect what we have and create new spaces for nature. I
+          believe that art and creativity can be used to communicate scientific
+          ideas and engage people who might think science isn't for them.
         actions: []
         image_alt: lorem-ipsum
         media_position: left
