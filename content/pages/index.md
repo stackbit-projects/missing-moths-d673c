@@ -137,7 +137,6 @@ sections:
     background_image_opacity: 12
   - section_id: who-am-i
     title: Who am I?
-    subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
     align: center
