@@ -5,7 +5,7 @@ sections:
     title: Moths are disappearing
     subtitle: >-
       In the last 50 years, the number of moths recorded in the UK has declined
-      by 33%.
+      by 33%
     actions: []
     image: /images/Garden_TigerSC.svg
     image_alt: A smiling woman
