@@ -86,54 +86,6 @@ sections:
     align: center
     background_color: none
     title: Learn more
-  - type: grid_section
-    title: Who am I?
-    grid_items:
-      - content: >-
-          Alyvia is an amazing content writer. She helped us produce microcopy
-          for our apps in all levels of user touchpoints.
-
-
-          **Hanson Deck,** *App Developer, Studio*
-        image: images/hanson-deck.png
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          Alyvia really understands who our customers are and what tone of voice
-          to use when communicating with them.
-
-
-          **Miles Tone,** *CEO, Studio*
-        image: images/miles-tone.png
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          Working with Alyvia was great because she was well versed in all of
-          our tools and applications, and was able to manage our store and
-          campaigns without any technical glitches.
-
-
-          **Eleanor Carr,** *CTO, eCommerce Business*
-        image: images/eleanor-carr.png
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          I love it when a content writer can really wordsmith and create copy
-          that suits the design intention and style!
-
-
-          **Gordon Norman,** *Web Designer, Local Business*
-        image: images/gordon-norman.png
-        image_position: left
-        image_width: twenty-five
-    grid_cols: two
-    grid_gap_horiz: medium
-    grid_gap_vert: large
-    align: center
-    background_color: secondary
-    background_image_repeat: repeat
-    background_image_size: contain
-    background_image_opacity: 12
   - section_id: who-am-i
     title: Who am I?
     features: []
