@@ -48,19 +48,30 @@ sections:
       - title: What can you do?
         subtitle: Garden for wildlife
         content: >
-          *   Plant pollinator friendly plants
+          There are a few simple steps you can take to make your garden into a
+          haven for wildlife.
 
 
-          *   Don't use pesticides
+          *   Plant nectar rich plants to feed pollinating insects 
 
 
-          *   Use peat-free compost to protect vital habitat
+          *   Leave wild patches of 'weeds' where butterflies and moths can
+          breed
+
+
+          *   Don't use pesticides, encourage natural predators to control
+          problem pests instead.
+
+
+          *   Switch to peat-free compost to protect vital habitat for rare
+          moths
 
 
           The charity Butterfly Conservation have a comprehensive guide to
-          gardening for moths (and butterflies!) on their website. As well as
-          guides to wildlife friendly gardening, they have a month-by-month blog
-          to keep you on track with upcoming garden tasks.
+          gardening for moths (and butterflies!) on their website with details
+          on all of these steps. They  also have a month-by-month blog to keep
+          you on track with upcoming garden tasks. Find out more on the
+          Butterfly Conservation website:
         actions:
           - label: Learn More
             url: >-
