@@ -97,7 +97,7 @@ sections:
           Lots of people keep a record of the moths they see. These records are
           used for a range of conservation purposes, such as conserving
           habitats, understanding the impact of climate change on different
-          species or improving scientific understanding of moth ecology.
+          species and improving understanding of moth ecology.
 
 
           You can get involved with very little commitment. You could record day
@@ -107,11 +107,11 @@ sections:
 
 
           It can be overwhelming when you first start identifying moths (there
-          are over 2000 species in the UK) but there are helpful people on
+          are over 2000 species in the UK) but there are helpful groups on
           [Facebook](https://www.facebook.com/groups/1657981907786185) and
-          [Twitter](https://twitter.com/MothIDUK) who are more than happy to
-          help with any polite requests. Butterfly conservation have more
-          details on their website about the best way to submit records:
+          [Twitter](https://twitter.com/MothIDUK) who are happy to help with any
+          polite requests. Find out more about moth recording and how to submit
+          records on the Butterfly Conservation website:
         actions:
           - label: See Past Work
             url: /faq
