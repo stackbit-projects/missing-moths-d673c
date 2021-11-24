@@ -63,7 +63,7 @@ sections:
             icon_position: right
         image: /images/Untitled design (4).png
         image_alt: Feature 2 illustration
-        media_position: right
+        media_position: left
         media_width: sixty
       - title: Record moths
         subtitle: Contribute to science from your garden
