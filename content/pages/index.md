@@ -113,7 +113,7 @@ sections:
           polite requests. Find out more about moth recording and how to submit
           records on the Butterfly Conservation website:
         actions:
-          - label: See Past Work
+          - label: Start moth recording
             url: /faq
             style: primary
             has_icon: true
