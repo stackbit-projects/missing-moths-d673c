@@ -67,5 +67,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://missing-moths-d673c.netlify.app"
+    "domain": "https://missing-moths-d673c.netlify.app",
+    "favicon": "/images/Garden_TigerFV.png"
 }
