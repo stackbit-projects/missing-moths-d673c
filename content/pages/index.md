@@ -5,7 +5,7 @@ sections:
     title: Moths are disappearing
     subtitle: >-
       Thank you for taking an interest in our missing moths. This site is not a
-      comprehensive 
+      comprehensive guid
     actions: []
     image: /images/Garden_TigerSC.svg
     image_alt: A smiling woman
