@@ -96,7 +96,7 @@ sections:
           in Natural Sciences (Environmental Science). ILorem ipsu
         actions: []
         image_alt: lorem-ipsum
-        media_position: top
+        media_position: left
         media_width: thirty-three
         align: left
         image: /images/8tnr3tBY_400x400.jpg
