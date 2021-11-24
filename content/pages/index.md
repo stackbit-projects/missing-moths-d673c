@@ -32,7 +32,7 @@ sections:
 
       If you've seen a Missing Moths poster in the wild, please take a picture
       and spread the word on Instagram and Twitter by tagging it with
-      **#MissingMoths**. We'd also love to see your moths there too!\*\* \*\*
+      **#MissingMoths**. We'd also love to see your moths there too!
   - type: features_section
     features:
       - title: Why do moths matter?
