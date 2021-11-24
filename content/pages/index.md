@@ -63,7 +63,8 @@ sections:
           to keep you on track with upcoming garden tasks.
         actions:
           - label: Learn More
-            url: /about
+            url: >-
+              https://butterfly-conservation.org/how-you-can-help/get-involved/gardening
             style: secondary
             has_icon: true
             icon: arrow-right
