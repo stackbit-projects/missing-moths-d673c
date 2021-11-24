@@ -94,11 +94,10 @@ sections:
       - title: Record moths
         subtitle: Contribute to science from your garden
         content: >
-          Ifyou keep a record of moths you see, you can submit these to your
-          local County Moth Recorder. These records are then used for a range of
-          conservation purposes, such as conserving habitats, understanding the
-          impact of climate change on different species or improving scientific
-          understanding of moth ecology.
+          Lots of people keep a record of the moths they see. These records are
+          used for a range of conservation purposes, such as conserving
+          habitats, understanding the impact of climate change on different
+          species or improving scientific understanding of moth ecology.
 
 
           You can get involved with very little commitment. You could record day
