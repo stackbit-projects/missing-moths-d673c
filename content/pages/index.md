@@ -94,9 +94,25 @@ sections:
       - title: Record moths
         subtitle: Contribute to science from your garden
         content: >
-          Record moths when you see them, or run a moth trap and contribute to
-          ongoing monitoring schemes. Don't forget to submit your records to
-          your local moth recorder.
+          Ifyou keep a record of moths you see, you can submit these to your
+          local County Moth Recorder. These records are then used for a range of
+          conservation purposes, such as conserving habitats, understanding the
+          impact of climate change on different species or improving scientific
+          understanding of moth ecology.
+
+
+          You can get involved with very little commitment. You could record day
+          flying moths that you see on a walk or go out looking with a torch at
+          dusk. Once you're bitten by the mothing bug, you may want to invest in
+          a moth trap and discover the delights that fly around the night sky.
+
+
+          It can be overwhelming when you first start identifying moths (there
+          are over 2000 species in the UK) but there are helpful people on
+          [Facebook](https://www.facebook.com/groups/1657981907786185) and
+          [Twitter](https://twitter.com/MothIDUK) who are more than happy to
+          help with any polite requests. Butterfly conservation have more
+          details on their website about the best way to submit records:
         actions:
           - label: See Past Work
             url: /faq
