@@ -47,13 +47,20 @@ sections:
         media_width: sixty
       - title: What can you do?
         subtitle: Garden for wildlife
-        content: |+
+        content: >
           *   Plant pollinator friendly plants
+
 
           *   Don't use pesticides
 
+
           *   Use peat-free compost to protect vital habitat
 
+
+          The charity Butterfly Conservation have a comprehensive guide to
+          gardening for moths (and butterflies!) on their website. As well as
+          guides to wildlife friendly gardening, they have a month-by-month blog
+          to keep you on track with upcoming garden tasks.
         actions:
           - label: Learn More
             url: /about
