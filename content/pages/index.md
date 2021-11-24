@@ -97,7 +97,7 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         media_position: top
-        media_width: fifty
+        media_width: thirty-three
         align: left
         image: /images/8tnr3tBY_400x400.jpg
     feature_padding_vert: medium
