@@ -44,7 +44,7 @@ sections:
         image: /images/Untitled design (5)-14761502.png
         image_alt: Feature 1 illustration
         media_position: right
-        media_width: sixty
+        media_width: fourty
       - title: What can you do?
         subtitle: Garden for wildlife
         content: >
