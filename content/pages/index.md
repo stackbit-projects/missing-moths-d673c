@@ -84,7 +84,6 @@ sections:
     title: Learn more
   - type: grid_section
     title: Who am I?
-    subtitle: What My Clients Say
     grid_items:
       - content: >-
           Alyvia is an amazing content writer. She helped us produce microcopy
