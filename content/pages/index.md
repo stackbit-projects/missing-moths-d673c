@@ -26,7 +26,8 @@ sections:
 
 
       Thank you for taking an interest in the Missing Moths project. This site
-      will guide you to resources to allow you to help reverse these changes.
+      will guide you to resources that show what you can do to help reverse the
+      fate of moths and other insects.
 
 
       If you've seen a Missing Moths poster in the wild, please take a picture
