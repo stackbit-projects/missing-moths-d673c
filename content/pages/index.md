@@ -110,6 +110,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
+        image: /images/8tnr3tBY_400x400.jpg
     feature_padding_vert: medium
     align: center
     padding_top: medium
