@@ -29,9 +29,9 @@ sections:
       what you can do to help.
 
 
-      If you've seen a Missing Moths poster or any decling moths species in the
-      wild, please take a picture and spread the word on Instagram and Twitter
-      by tagging it with **#MissingMoths**
+      If you've seen a Missing Moths poster or species in the wild, please take
+      a picture and spread the word on Instagram and Twitter by tagging it with
+      **#MissingMoths**
   - type: features_section
     features:
       - title: Why do moths matter?
