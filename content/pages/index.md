@@ -61,7 +61,7 @@ sections:
         image_alt: Feature 2 illustration
         media_position: right
         media_width: sixty
-      - title: How to record moths
+      - title: Record moths
         subtitle: Contribute to science from your garden
         content: >
           Record moths when you see them, or run a moth trap and contribute to
