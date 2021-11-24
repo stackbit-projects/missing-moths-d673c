@@ -79,7 +79,7 @@ sections:
           you on track with upcoming garden tasks. Find out more on the
           Butterfly Conservation website:
         actions:
-          - label: Learn More
+          - label: Garden for moths
             url: >-
               https://butterfly-conservation.org/how-you-can-help/get-involved/gardening
             style: secondary
