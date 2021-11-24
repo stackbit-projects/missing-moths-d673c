@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Moths are disappearing
-    subtitle: >-
-      In the last 50 years, the number of moths recorded in the UK and Ireland
-      has steadily declined.
+    subtitle: 'Thank you for visiting missing moths, '
     actions: []
     image: /images/Garden_TigerSC.svg
     image_alt: A smiling woman
