@@ -107,7 +107,7 @@ sections:
         media_position: left
         media_width: thirty-three
         align: left
-        image: /images/8tnr3tBY_400x400.jpg
+        image: /images/8tnr3tBY_400x400.png
     feature_padding_vert: medium
     align: center
     padding_top: medium
