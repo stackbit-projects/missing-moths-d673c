@@ -29,10 +29,8 @@ sections:
       what you can do to help.
 
 
-
-
       If you've seen a Missing Moths poster, please take a picture and spread
-      the word on Instagram and Twitter by tagging it with #MissingMoths
+      the word on Instagram and Twitter by tagging it with** #MissingMoths**
   - type: features_section
     features:
       - title: Why do moths matter?
