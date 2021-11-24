@@ -96,9 +96,6 @@ sections:
           in Natural Sciences (Environmental Science). ILorem ipsu
         actions: []
         image_alt: lorem-ipsum
-        video_embed_html: >-
-          I am Anna. I'm an Open University student in the final year of a BSc
-          in Natural Sciences (Environmental Science). I
         media_position: top
         media_width: fifty
         align: left
