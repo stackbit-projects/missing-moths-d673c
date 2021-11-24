@@ -114,7 +114,7 @@ sections:
           records on the Butterfly Conservation website:
         actions:
           - label: Start moth recording
-            url: /faq
+            url: 'https://butterfly-conservation.org/moths/moth-recording'
             style: primary
             has_icon: true
             icon: arrow-right
