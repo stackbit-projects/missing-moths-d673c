@@ -173,7 +173,7 @@ seo:
       value: The preview of the Personal theme
       keyName: property
     - name: 'og:image'
-      value: images/personal-preview.png
+      value: /images/Garden_Tiger-4c11a47f.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
