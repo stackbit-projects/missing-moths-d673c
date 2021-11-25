@@ -159,7 +159,9 @@ sections:
     background_image: /images/watercolor.png
 seo:
   title: Missing Moths
-  description: The preview of the Personal theme
+  description: >-
+    Find out what you can do to help save moths in the UK and learn more about
+    how they help.
   extra:
     - name: 'og:type'
       value: website
