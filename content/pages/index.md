@@ -170,7 +170,9 @@ seo:
       value: Missing Moths
       keyName: property
     - name: 'og:description'
-      value: The preview of the Personal theme
+      value: >-
+        Find out what you can do to help save moths in the UK and learn more
+        about how they help.
       keyName: property
     - name: 'og:image'
       value: /images/Garden_Tiger-4c11a47f.png
