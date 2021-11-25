@@ -183,7 +183,9 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Personal Theme
     - name: 'twitter:description'
-      value: The preview of the Personal theme
+      value: >-
+        Find out what you can do to help save moths in the UK and learn more
+        about how they help.
     - name: 'twitter:image'
       value: /images/Garden_TigerSm.png
       relativeUrl: true
