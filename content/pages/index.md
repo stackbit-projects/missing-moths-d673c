@@ -158,7 +158,7 @@ sections:
     type: features_section
     background_image: /images/watercolor.png
 seo:
-  title: Stackbit Personal Theme
+  title: Missing Moths
   description: The preview of the Personal theme
   extra:
     - name: 'og:type'
