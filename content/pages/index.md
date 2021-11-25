@@ -181,7 +181,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Personal Theme
+      value: Missing Moths
     - name: 'twitter:description'
       value: >-
         Find out what you can do to help save moths in the UK and learn more
