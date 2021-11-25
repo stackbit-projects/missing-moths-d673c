@@ -40,6 +40,8 @@ sections:
           *   Vital link in the food chain for birds, bats and other insects
 
           *   Important pollinators
+
+          *   Moths are beautiful to look at.
         actions: []
         image: /images/Untitled design (5)-14761502.png
         image_alt: Feature 1 illustration
